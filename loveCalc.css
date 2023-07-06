@@ -109,3 +109,16 @@ button {
     50% {transform:translateY(-16px);}
     100% {transform:translateY(0px);}
 }
+
+footer {
+  margin: 0 0 40px;
+}
+footer span {
+  display: block;
+  text-align: center;
+  font-family: 'poppin-med';
+  color: #777;
+}
+footer span i {
+  color: tomato;
+}
